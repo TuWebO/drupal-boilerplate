@@ -29,7 +29,7 @@ services:
 #    volumes:
 #      - ./:/var/www/html:cached
 #      # Alternative for macOS users: Mutagen https://wodby.com/docs/stacks/drupal/local#docker-for-mac
-      - mutagen:/var/www/html
+#     - mutagen:/var/www/html
 
 #  postgres:
 #    volumes:
